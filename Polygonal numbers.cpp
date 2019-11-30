@@ -85,7 +85,7 @@ int main()
 		break;
 	case 6:
 		p = Hexagonal_numbers();
-		cout << "The fist 100 hexagonal numbers are:" << endl;
+		cout << "The first 100 hexagonal numbers are:" << endl;
 		for (i = 1;i <= 100;i++)
 		{
 			cout << p[i] << " ";
@@ -93,7 +93,7 @@ int main()
 		break;
 	case 7:
 		p = Heptagonal_numbers();
-		cout << "The fist 100 heptagonal numbers are:" << endl;
+		cout << "The first 100 heptagonal numbers are:" << endl;
 		for (i = 1;i <= 100;i++)
 		{
 			cout << p[i] << " ";
@@ -101,7 +101,7 @@ int main()
 		break;
 	case 8:
 		p = Octagonal_numbers();
-		cout << "The fist 100 octagonal numbers are:" << endl;
+		cout << "The first 100 octagonal numbers are:" << endl;
 		for (i = 1;i <= 100;i++)
 		{
 			cout << p[i] << " ";
@@ -109,7 +109,7 @@ int main()
 		break;
 	case 9:
 		p = Nonagonal_numbers();
-		cout << "The fist 100 nonagonal numbers are:" << endl;
+		cout << "The first 100 nonagonal numbers are:" << endl;
 		for (i = 1;i <= 100;i++)
 		{
 			cout << p[i] << " ";
@@ -117,7 +117,7 @@ int main()
 		break;
 	case 10:
 		p = Decagonal_numbers();
-		cout << "The fist 100 decagonal numbers are:" << endl;
+		cout << "The first 100 decagonal numbers are:" << endl;
 		for (i = 1;i <= 100;i++)
 		{
 			cout << p[i] << " ";
@@ -125,7 +125,7 @@ int main()
 		break;
 	case 11:
 		p = Hendecagonal_numbers();
-		cout << "The fist 100 hendecagonal numbers are:" << endl;
+		cout << "The first 100 hendecagonal numbers are:" << endl;
 		for (i = 1;i <= 100;i++)
 		{
 			cout << p[i] << " ";
@@ -133,7 +133,7 @@ int main()
 		break;
 	case 12:
 		p = Dodecagonal_numbers();
-		cout << "The fist 100 dodecagonal numbers are:" << endl;
+		cout << "The first 100 dodecagonal numbers are:" << endl;
 		for (i = 1;i <= 100;i++)
 		{
 			cout << p[i] << " ";
@@ -141,7 +141,7 @@ int main()
 		break;
 	case 13:
 		p = Tridecagonal_numbers();
-		cout << "The fist 100 tridecagonal numbers are:" << endl;
+		cout << "The first 100 tridecagonal numbers are:" << endl;
 		for (i = 1;i <= 100;i++)
 		{
 			cout << p[i] << " ";
@@ -149,7 +149,7 @@ int main()
 		break;
 	case 14:
 		p = Tetradecagonal_numbers();
-		cout << "The fist 100 tetradecagonal numbers are:" << endl;
+		cout << "The first 100 tetradecagonal numbers are:" << endl;
 		for (i = 1;i <= 100;i++)
 		{
 			cout << p[i] << " ";
@@ -157,7 +157,7 @@ int main()
 		break;
 	case 15:
 		p = Pentadecagonal_numbers();
-		cout << "The fist 100 pentadecagonal numbers are:" << endl;
+		cout << "The first 100 pentadecagonal numbers are:" << endl;
 		for (i = 1;i <= 100;i++)
 		{
 			cout << p[i] << " ";
@@ -165,7 +165,7 @@ int main()
 		break;
 	case 16:
 		p = Hexadecagonal_numbers();
-		cout << "The fist 100 hexadecagonal numbers are:" << endl;
+		cout << "The first 100 hexadecagonal numbers are:" << endl;
 		for (i = 1;i <= 100;i++)
 		{
 			cout << p[i] << " ";
@@ -173,7 +173,7 @@ int main()
 		break;
 	case 17:
 		p = Heptadecagonal_numbers();
-		cout << "The fist 100 heptadecagonal numbers are:" << endl;
+		cout << "The first 100 heptadecagonal numbers are:" << endl;
 		for (i = 1;i <= 100;i++)
 		{
 			cout << p[i] << " ";
@@ -181,7 +181,7 @@ int main()
 		break;
 	case 18:
 		p = Octadecagonal_numbers();
-		cout << "The fist 100 octadecagonal numbers are:" << endl;
+		cout << "The first 100 octadecagonal numbers are:" << endl;
 		for (i = 1;i <= 100;i++)
 		{
 			cout << p[i] << " ";
@@ -189,7 +189,7 @@ int main()
 		break;
 	case 19:
 		p = Enneadecagonal_numbers();
-		cout << "The fist 100 enneadecagonal numbers are:" << endl;
+		cout << "The first 100 enneadecagonal numbers are:" << endl;
 		for (i = 1;i <= 100;i++)
 		{
 			cout << p[i] << " ";
@@ -197,7 +197,7 @@ int main()
 		break;
 	case 20:
 		p = Icosagonal_numbers();
-		cout << "The fist 100 icosagonal numbers are:" << endl;
+		cout << "The first 100 icosagonal numbers are:" << endl;
 		for (i = 1;i <= 100;i++)
 		{
 			cout << p[i] << " ";
@@ -205,7 +205,7 @@ int main()
 		break;
 	case 21:
 		p = Icosihenagonal_numbers();
-		cout << "The fist 100 icosihenagonal numbers are:" << endl;
+		cout << "The first 100 icosihenagonal numbers are:" << endl;
 		for (i = 1;i <= 100;i++)
 		{
 			cout << p[i] << " ";
@@ -213,7 +213,7 @@ int main()
 		break;
 	case 22:
 		p = Icosidigonal_numbers();
-		cout << "The fist 100 icosidigonal numbers are:" << endl;
+		cout << "The first 100 icosidigonal numbers are:" << endl;
 		for (i = 1;i <= 100;i++)
 		{
 			cout << p[i] << " ";
@@ -221,7 +221,7 @@ int main()
 		break;
 	case 23:
 		p = Icositrigonal_numbers();
-		cout << "The fist 100 icositrigonal numbers are:" << endl;
+		cout << "The first 100 icositrigonal numbers are:" << endl;
 		for (i = 1;i <= 100;i++)
 		{
 			cout << p[i] << " ";
@@ -229,7 +229,7 @@ int main()
 		break;
 	case 24:
 		p = Icositetragonal_numbers();
-		cout << "The fist 100 icositetragonal numbers are:" << endl;
+		cout << "The first 100 icositetragonal numbers are:" << endl;
 		for (i = 1;i <= 100;i++)
 		{
 			cout << p[i] << " ";
@@ -245,7 +245,7 @@ int main()
 		}
 		break;
 	default:
-		cout << "The polygon must have between 3 and 24 sides.\n";
+		cout << "The polygon must have between 3 and 10000 sides.\n";
 	}
 	
 }
@@ -476,9 +476,9 @@ int* Polygonal_numbers()
 	static int polygonal_nums[10001];
 	static int s;
 	cin >> s;
-	if (s > 0 && s <= 10000)
+	if (s > 3 && s <= 10000)
 	{
-		cout << "The fist 100 polygonal numbers with " << s << " sides are:" << endl;
+		cout << "The first 100 polygonal numbers with " << s << " sides are:" << endl;
 		for (int n = 1; n <= 10000; n++)
 		{
 			int polygonal = ((s - 2) * n * n - (s - 4) * n) / 2;
