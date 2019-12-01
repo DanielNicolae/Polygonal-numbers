@@ -1,0 +1,11 @@
+E:\Facultate\C#\Polygonal numbers\bin\Debug\netcoreapp3.0\Polygonal numbers.exe
+E:\Facultate\C#\Polygonal numbers\bin\Debug\netcoreapp3.0\Polygonal numbers.deps.json
+E:\Facultate\C#\Polygonal numbers\bin\Debug\netcoreapp3.0\Polygonal numbers.runtimeconfig.json
+E:\Facultate\C#\Polygonal numbers\bin\Debug\netcoreapp3.0\Polygonal numbers.runtimeconfig.dev.json
+E:\Facultate\C#\Polygonal numbers\bin\Debug\netcoreapp3.0\Polygonal numbers.dll
+E:\Facultate\C#\Polygonal numbers\bin\Debug\netcoreapp3.0\Polygonal numbers.pdb
+E:\Facultate\C#\Polygonal numbers\obj\Debug\netcoreapp3.0\Polygonal numbers.csprojAssemblyReference.cache
+E:\Facultate\C#\Polygonal numbers\obj\Debug\netcoreapp3.0\Polygonal numbers.AssemblyInfoInputs.cache
+E:\Facultate\C#\Polygonal numbers\obj\Debug\netcoreapp3.0\Polygonal numbers.AssemblyInfo.cs
+E:\Facultate\C#\Polygonal numbers\obj\Debug\netcoreapp3.0\Polygonal numbers.dll
+E:\Facultate\C#\Polygonal numbers\obj\Debug\netcoreapp3.0\Polygonal numbers.pdb
