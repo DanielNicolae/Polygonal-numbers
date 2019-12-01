@@ -35,7 +35,7 @@ namespace Polygonal_numbers
             switch (polygonOfSides)
             {
                 case 3:
-                    Console.WriteLine("The triangular numbers between 1 and 100:");
+                    Console.WriteLine("The first 100 triangular are:");
                     foreach(int n in Triangular_numbers())
                     {
                         Console.WriteLine(n);
@@ -43,7 +43,7 @@ namespace Polygonal_numbers
                     break;
 
                 case 4:
-                    Console.WriteLine("The square numbers between 1 and 100:");
+                    Console.WriteLine("The first 100 square numbers are:");
                     foreach (int n in Square_numbers())
                     {
                         Console.WriteLine(n);
@@ -51,140 +51,140 @@ namespace Polygonal_numbers
                     break;
 
                 case 5:
-                    Console.WriteLine("The pentagonal numbers between 1 and 100:");
+                    Console.WriteLine("The first 100 pentagonal numbers are:");
                     foreach (int n in Pentagonal_numbers())
                     {
                         Console.WriteLine(n);
                     }
                     break;
                 case 6:
-                    Console.WriteLine("The hexagonal numbers between 1 and 100:");
+                    Console.WriteLine("The first 100 hexagonal numbers are:");
                     foreach (int n in Hexagonal_numbers())
                     {
                         Console.WriteLine(n);
                     }
                     break;
                 case 7:
-                    Console.WriteLine("The heptagonal numbers between 1 and 100:");
+                    Console.WriteLine("The first 100 heptagonal numbers are:");
                     foreach (int n in Heptagonal_numbers())
                     {
                         Console.WriteLine(n);
                     }
                     break;
                 case 8:
-                    Console.WriteLine("The octagonal numbers between 1 and 100:");
+                    Console.WriteLine("The fist 100 octagonal numbers are:");
                     foreach (int n in Octagonal_numbers())
                     {
                         Console.WriteLine(n);
                     }
                     break;
                 case 9:
-                    Console.WriteLine("The nonagonal numbers between 1 and 100:");
+                    Console.WriteLine("The first 100 nonagonal numbers are:");
                     foreach (int n in Nonagonal_numbers())
                     {
                         Console.WriteLine(n);
                     }
                     break;
                 case 10:
-                    Console.WriteLine("The decagonal numbers between 1 and 100:");
+                    Console.WriteLine("The first 100 decagonal numbers are:");
                     foreach (int n in Decagonal_numbers())
                     {
                         Console.WriteLine(n);
                     }
                     break;
                 case 11:
-                    Console.WriteLine("The hendecagonal numbers between 1 and 100:");
+                    Console.WriteLine("The first 100 hendecagonal numbers are:");
                     foreach (int n in Hendecagonal_numbers())
                     {
                         Console.WriteLine(n);
                     }
                     break;
                 case 12:
-                    Console.WriteLine("The dodecagonal numbers between 1 and 100:");
+                    Console.WriteLine("The first 100 dodecagonal numbers are:");
                     foreach (int n in Dodecagonal_numbers())
                     {
                         Console.WriteLine(n);
                     }
                     break;
                 case 13:
-                    Console.WriteLine("The tridecagonal numbers between 1 and 100:");
+                    Console.WriteLine("The first 100 tridecagonal numbers are:");
                     foreach (int n in Tridecagonal_numbers())
                     {
                         Console.WriteLine(n);
                     }
                     break;
                 case 14:
-                    Console.WriteLine("The tetradecagonal numbers between 1 and 100:");
+                    Console.WriteLine("The first 100 tetradecagonal numbers are:");
                     foreach (int n in Tetradecagonal_numbers())
                     {
                         Console.WriteLine(n);
                     }
                     break;
                 case 15:
-                    Console.WriteLine("The pentadecagonal numbers between 1 and 100:");
+                    Console.WriteLine("The first 100 pentadecagonal numbers are:");
                     foreach (int n in Pentadecagonal_numbers())
                     {
                         Console.WriteLine(n);
                     }
                     break;
                 case 16:
-                    Console.WriteLine("The hexadecagonal numbers between 1 and 100:");
+                    Console.WriteLine("The first 100 hexadecagonal numbers are:");
                     foreach (int n in Hexadecagonal_numbers())
                     {
                         Console.WriteLine(n);
                     }
                     break;
                 case 17:
-                    Console.WriteLine("The heptadecagonal numbers between 1 and 100:");
+                    Console.WriteLine("The first 100 heptadecagonal numbers are:");
                     foreach (int n in Heptadecagonal_numbers())
                     {
                         Console.WriteLine(n);
                     }
                     break;
                 case 18:
-                    Console.WriteLine("The octadecagonal numbers between 1 and 100:");
+                    Console.WriteLine("The first 100 octadecagonal numbers are:");
                     foreach (int n in Octadecagonal_numbers())
                     {
                         Console.WriteLine(n);
                     }
                     break;
                 case 19:
-                    Console.WriteLine("The enneadecagonal numbers between 1 and 100:");
+                    Console.WriteLine("The first 100 enneadecagonal numbers are:");
                     foreach (int n in Enneadecagonal_numbers())
                     {
                         Console.WriteLine(n);
                     }
                     break;
                 case 20:
-                    Console.WriteLine("The icosagonal numbers between 1 and 100:");
+                    Console.WriteLine("The first 100 icosagonal numbers are:");
                     foreach (int n in Icosagonal_numbers())
                     {
                         Console.WriteLine(n);
                     }
                     break;
                 case 21:
-                    Console.WriteLine("The icosihenagonal numbers between 1 and 100:");
+                    Console.WriteLine("The first 100 icosihenagonal numbers are:");
                     foreach (int n in Icosihenagonal_numbers())
                     {
                         Console.WriteLine(n);
                     }
                     break;
                 case 22:
-                    Console.WriteLine("The icosidigonal numbers between 1 and 100:");
+                    Console.WriteLine("The first 100 icosidigonal numbers are:");
                     foreach (int n in Icosidigonal_numbers())
                     {
                         Console.WriteLine(n);
                     }
                     break;
                 case 23:
-                    Console.WriteLine("The icositrigonal numbers between 1 and 100:");
+                    Console.WriteLine("The first 100 icositrigonal numbers are:");
                     foreach (int n in Icositrigonal_numbers())
                     {
                         Console.WriteLine(n);
                     }
                     break;
                 case 24:
-                    Console.WriteLine("The icositetragonal numbers between 1 and 100:");
+                    Console.WriteLine("The first 100 icositetragonal numbers are:");
                     foreach (int n in Icositetragonal_numbers())
                     {
                         Console.WriteLine(n);
