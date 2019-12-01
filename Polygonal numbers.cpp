@@ -237,7 +237,7 @@ int main()
 		break;
 
 	case 25:
-		cout << "Enter the number of sides for the poligon.\n";
+		cout << "Enter the number of sides for the polygon (between 4 and 10000).\n";
 		p = Polygonal_numbers();
 		for (i = 1;i <= 100;i++)
 		{
@@ -473,13 +473,13 @@ int* Icositetragonal_numbers()
 
 int* Polygonal_numbers()
 {
-	static int polygonal_nums[10001];
+	static int polygonal_nums[101];
 	static int s;
 	cin >> s;
 	if (s > 3 && s <= 10000)
 	{
 		cout << "The first 100 polygonal numbers with " << s << " sides are:" << endl;
-		for (int n = 1; n <= 10000; n++)
+		for (int n = 1; n <= 100; n++)
 		{
 			int polygonal = ((s - 2) * n * n - (s - 4) * n) / 2;
 			polygonal_nums[n] = polygonal;
