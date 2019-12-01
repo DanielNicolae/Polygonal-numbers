@@ -61,7 +61,7 @@ int main()
 	case 3:
 		p = Triangular_numbers();
 		
-		cout << "The triangular numbers between 1 and 100:" << endl;
+		cout << "The first 100 triangular numbers are:" << endl;
 		for (i=1;i<=100;i++)
 		{
 			cout << p[i] << " ";
